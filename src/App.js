@@ -7,7 +7,7 @@ function App() {
         <h1>Luke Wiskus 5611 Project2 Submission</h1>
       </div>
       <div className=" box mouseFollow">
-        <h1>Mouse Follow</h1>
+        <h1>Cloth Simulation</h1>
         <iframe
           width="560"
           height="315"
